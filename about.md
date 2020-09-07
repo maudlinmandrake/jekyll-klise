@@ -17,7 +17,8 @@ _If you can't tell already, I like to have my fingers in a lot of different pies
 5. I'm a voracious reader.
 6. I don't know how true any of it, but I'm deeply interested in the various personality sciences (pseudosciences?). Mostly I think of it as a fun way to think about myself. I'm a Capricorn Sun / Taurus Moon / Aries Rising. In MBTI, I test as an [INTJ](https://www.16personalities.com/intj-personality) and I'm an Enneagram [Type 5](https://www.enneagraminstitute.com/type-5).
 
-**let's be friends ✨**
+#### let's be friends ✨
 
 - {{ site.author.email }}
+- {{ site.author.twitter }}
 - github.com/{{ site.author.github }}
