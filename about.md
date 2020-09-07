@@ -2,17 +2,22 @@
 title: Colophon
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Hi! I'm Jenny, and I'm your new weird internet mom friend. 
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+I am, in fact, an actual mom, and I live in Indianapolis with my giant Icelandic husband and our spawn (singular). I'm a self-lead learner currently attempting to tackle how to program, and I fancy working as a full stack web developer once my kid is in kindergarten. I'm an art school dropout with a background in social work, and currently I'm currently working as a remote intern at a local community college, as a teacher's assistant in a virtual classroom environment.
 
-If you have a question about him or else, just send a letter to him.
+_If you can't tell already, I like to have my fingers in a lot of different pies:_
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+1. I have a deep interest in computers and technology in general
+2. [I'm an artist](https://www.instagram.com/ykantjennypaint.jpg/), and originally started out as an art school student.
+3. If I'm not painting, I'm weaving
+4. I study the Tarot: its imagery, its history, and the psychology of it.
+5. I'm a voracious reader.
+6. I don't know how true any of it, but I'm deeply interested in the various personality sciences (pseudosciences?). Mostly I think of it as a fun way to think about myself. I'm a Capricorn Sun / Taurus Moon / Aries Rising. In MBTI, I test as an [INTJ](https://www.16personalities.com/intj-personality) and I'm an Enneagram [Type 5](https://www.enneagraminstitute.com/type-5).
 
-**may u needs ✨**
+**let's be friends ✨**
 
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}

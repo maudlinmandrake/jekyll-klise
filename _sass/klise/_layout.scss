@@ -190,8 +190,8 @@
   }
 
   .author-avatar {
-    width: 70px;
-    height: 70px;
+    width: 200px;
+    height: 200px;
     border-radius: 100%;
     user-select: none;
     background-color: $black;
@@ -203,7 +203,8 @@
   }
 
   .author-name {
-    font-size: 1.7em;
+    font-family: 'Victor Mono Bold Italic';
+    font-size: 2em;
     margin-bottom: 2px;
   }
 
@@ -212,6 +213,7 @@
     opacity: 0.9;
     max-width: 393px;
     line-height: 1.688;
+    font-family: 'Victor Mono Italic';
   }
 }
 

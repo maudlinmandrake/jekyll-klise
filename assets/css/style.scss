@@ -2,3 +2,23 @@
 ---
 
 @import "main";
+
+@font-face {
+  font-family: "Victor Mono";
+  src: url(/assets/fonts/VictorMono-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Victor Mono Italic";
+  src: url(/assets/fonts/VictorMono-Italic.ttf);
+}
+
+@font-face {
+  font-family: "Victor Mono Bold";
+  src: url(/assets/fonts/VictorMono-Bold.ttf);
+}
+
+@font-face {
+  font-family: "Victor Mono Bold Italic";
+  src: url(/assets/fonts/VictorMono-BoldItalic.ttf);
+}
