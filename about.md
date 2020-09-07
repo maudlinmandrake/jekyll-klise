@@ -6,7 +6,9 @@ excerpt: Hi! I'm Jenny, and I'm your new weird internet mom friend.
 comments: false
 ---
 
-Hello, fellow humans. Along with being your weird internet mom friend, I am, in fact, an actual mom. I live in Indianapolis with my giant Icelandic husband and our spawn (singular). I'm a self-lead learner currently attempting to tackle how to program, and I fancy working as a full stack web developer once my kid is in kindergarten. I'm an art school dropout with a background in social work, and currently I'm working as a remote intern at a local community college, as a teacher's assistant in a virtual classroom environment. 
+Hello, fellow humans. Along with being your weird internet mom friend, I am, in fact, an actual mom. I live in Indianapolis with my giant Icelandic husband and our spawn (singular). I'm a self-lead learner currently attempting to tackle how to program, and I fancy working as a full stack web developer once my kid is in kindergarten. I'm an art school dropout with a background in social work, and currently I'm working as a remote intern at a local community college, as a teacher's assistant in a virtual classroom environment.
+
+I am trying to get over my fear of sharing my thoughts and ideas. This website is a big part of that process. The inner critic is a bitch: I'm trying to overcome it by befriending it.
 
 _If you can't tell already, I like to have my fingers in a lot of different pies:_
 
