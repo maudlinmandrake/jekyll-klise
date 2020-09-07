@@ -16,6 +16,7 @@ _If you can't tell already, I like to have my fingers in a lot of different pies
 4. I study the Tarot: its imagery, its history, and the psychology of it.
 5. I'm a voracious reader.
 6. I don't know how true any of it, but I'm deeply interested in the various personality sciences (pseudosciences?). Mostly I think of it as a fun way to think about myself. I'm a Capricorn Sun / Taurus Moon / Aries Rising. In MBTI, I test as an [INTJ](https://www.16personalities.com/intj-personality) and I'm an Enneagram [Type 5](https://www.enneagraminstitute.com/type-5).
+7. I love lifting weights, and one of my pie-in-the-sky dreams is to compete in a powerlifting competition. Last summer my husband and I built a home gym in our basement because we got so tired of fighting for the power racks at the local gym.
 
 #### let's be friends ✨
 
