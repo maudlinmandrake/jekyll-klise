@@ -1,22 +1,22 @@
 # Site settings
-title: Jenny Mikac # site title
-description: >- # site description
+title: Jenny Mikac 
+description: >-
   yr weird internet mom friend.
-lang: en-US # default lang
-timezone: America/Indiana/Indianapolis # set your timezone
+lang: en-US 
+timezone: America/Indiana/Indianapolis 
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/maudlinmandrake/jekyll-klise # site repo [optional]
-mode: dark # default theme "dark" | "light"
+mode: dark 
 
 # Profile settings
 author:
-  name: Jenny Mikac # author name
-  bio: >- # tell the world
+  name: Jenny Mikac
+  bio: >- 
     Your weird internet mom friend. Types in cursive. Thinking out loud about raising good human beings, self-lead learning, mental health, and creativity.
-  github: maudlinmandrake # github username
-  twitter: jennymikac # twitter username
-  email: jennymikac@gmail.com # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+  github: maudlinmandrake
+  twitter: jennymikac
+  email: jennymikac@gmail.com
+  avatar: /assets/img/avatar.jpg 
 
 # URL settings
 url: "https://jennymikac.dev" #
