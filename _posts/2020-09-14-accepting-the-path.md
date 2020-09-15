@@ -5,6 +5,8 @@ date: September 14, 2020
 tags: [marginalia]
 ---
 
+![Decorative header image](/assets/img/labyrinth.png)
+
 Confession: At the age of 34, I still feel that I have not carved out a life of my own. I’ve lived at the whims of others for almost my entire life. I have been starving myself with this indecisiveness.
 
 In an attempt to finally go against the stream of complacency, I submitted my application to Indiana University — for their online Informatics program — the other night. It’s my husband’s alma mater. It's taken me a long to get to this point. To commit, I mean. I've been waffling for the past two years about what I was going to do once I was done with community college, and that day is fast approaching. I'll be done in December, right before Ada turns 5. I turn 35 in January. I don't want to be in school for another 5 years of my life, but I want SOMETHING concrete behind me. 
