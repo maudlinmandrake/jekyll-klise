@@ -5,7 +5,7 @@ date:   September 02, 2020
 tags: [mindfulness, creativity, mental health]
 ---
 
-![Decorative header image](/assets/img/innerCritic.png)
+![Header image](/assets/img/innerCritic.png)
 
 It's funny reading a piece that I find insightful followed by a paragraph where the writer is lambasting themselves for not writing something insightful enough, and how I can never wrap my head around the fact that I may also write something that someone else thinks is insightful, and yet I'm just telling myself over and over "This is garbage I'm garbage why am I writing this garbage." There is never an "OH!" moment that makes my inner critic shut up, not even witnessing someone else tangled up in the same cycle.
 

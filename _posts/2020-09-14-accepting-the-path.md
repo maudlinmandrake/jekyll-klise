@@ -5,7 +5,7 @@ date: September 14, 2020
 tags: [marginalia]
 ---
 
-![Decorative header image](/assets/img/labyrinth.png)
+![A labyrinth](/assets/img/labyrinth.png)
 
 Confession: At the age of 34, I still feel that I have not carved out a life of my own. I’ve lived at the whims of others for almost my entire life. I have been starving myself with this indecisiveness.
 
